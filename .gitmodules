@@ -1,6 +1,6 @@
 [submodule "cs250"]
 	path = cs250
-	url = ./cs250/
+	url = git@github.com:ChrisLundquist/cs250.git
 [submodule "cs280"]
 	path = cs280
-	url = ./cs280/
+	url = git@github.com:ChrisLundquist/cs280.git
