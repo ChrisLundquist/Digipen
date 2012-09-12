@@ -1,0 +1,6 @@
+[submodule "cs250"]
+	path = cs250
+	url = ./cs250/
+[submodule "cs280"]
+	path = cs280
+	url = ./cs280/
