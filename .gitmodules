@@ -4,3 +4,9 @@
 [submodule "cs280"]
 	path = cs280
 	url = git@github.com:ChrisLundquist/cs280.git
+[submodule "nebula"]
+	path = nebula
+	url = ./nebula/
+[submodule "cs260"]
+	path = cs260
+	url = ./cs260/
